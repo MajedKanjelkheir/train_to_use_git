@@ -1,0 +1,4 @@
+Age: 16 year old
+Salary: 0 dollars
+Height: 176 cm
+Body fat percentage: 15 percent
